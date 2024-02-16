@@ -1,0 +1,373 @@
+ <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/leoB.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/LeoB11.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/leoB7.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/LeoB9.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/leoB8.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/LeoB10.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/leoB2.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#" 
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Web 3"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <!--  <a href="portfolio-details.html" title="More Details"
+                    ><i class="bx bx-link"> -->
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/leoBYamin.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#hero"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 2"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#hero" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/leoB4.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#hero"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Card 2"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#hero" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/LeoB5.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#hero"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Web 2"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#hero" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="#hero"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#hero"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 3"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#hero" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/leoBYamin.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#hero"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Card 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#hero" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/portfolio/leo3.png"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#hero"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Card 3"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#hero" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!-- start -->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/ft3.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-wrap"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/ft.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/ft2.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="App 1"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <!--  end -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/portfolio/leo1.png"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-links">
+                  <a
+                    href="#hero"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Web 3"
+                    ><i class="bx bx-plus"></i
+                  ></a>
+                  <a href="#hero" title="More Details"
+                    ><i class="bx bx-link"></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
